@@ -1,4 +1,4 @@
-# Results at 2026 May 02 18:41 CDT
+# Results at 2026 May 02 19:41 CDT
 | Pseudonym | Model | Commit | MAE (↓) | MSE (↓)|
 |--- | --- | --- | --- | ---|
 |9C5aa6FE2D | my_model | 391bdf4e | 1.079 | 2.619|
@@ -7,3 +7,4 @@
 |5caF20D117 | lalapuchi_final_model | 9598089b | 1.099 | 2.713|
 |1cC8Dc8Cec | my_model | 8598229e | 1.101 | 2.724|
 |5caF20D117 | v2_lalapuchi_final_model | ffb206ef | 1.096 | 2.694|
+|A1CdEF2B8F | my_model | 44a5e032 | 1.076 | 2.551|
