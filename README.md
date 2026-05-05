@@ -1,4 +1,4 @@
-# Results at 2026 May 04 21:46 CDT
+# Results at 2026 May 04 22:45 CDT
 | Pseudonym | Model | Commit | MAE (↓) | MSE (↓)|
 |--- | --- | --- | --- | ---|
 |9C5aa6FE2D | my_model | 391bdf4e | 1.079 | 2.619|
@@ -29,3 +29,5 @@
 |daEA9fABad | my_model | 6ffd64cb | 1.394 | 3.776|
 |fc8Db8f7ec | examples | 6b93fef6 | 3.175 | 15.088|
 |f15ca84FdE | my_model | 1f96e564 | 1.077 | 2.609|
+|60C8fa52De | my_model | 4d0c8157 | 1.439 | 4.737|
+|daEA9fABad | my_model | ec801917 | 1.394 | 3.776|
