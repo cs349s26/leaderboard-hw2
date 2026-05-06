@@ -1,4 +1,4 @@
-# Results at 2026 May 06 14:54 CDT
+# Results at 2026 May 06 15:53 CDT
 | Pseudonym | Model | Commit | MAE (↓) | MSE (↓)|
 |--- | --- | --- | --- | ---|
 |9C5aa6FE2D | my_model | 391bdf4e | 1.079 | 2.619|
@@ -77,3 +77,4 @@
 |ad99499F4F | chirp_model | 22f11e0b | 1.102 | 2.711|
 |0E1Ab9df1e | my_model | 03f62221 | nan | nan|
 |a32C0cDFCd | my_project | 02c86852 | 1.053 | 2.439|
+|24A21C9cBC | my_model | 17499b6d | 1.091 | 2.658|
