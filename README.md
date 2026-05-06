@@ -1,4 +1,4 @@
-# Results at 2026 May 06 15:53 CDT
+# Results at 2026 May 06 17:34 CDT
 | Pseudonym | Model | Commit | MAE (↓) | MSE (↓)|
 |--- | --- | --- | --- | ---|
 |9C5aa6FE2D | my_model | 391bdf4e | 1.079 | 2.619|
@@ -78,3 +78,4 @@
 |0E1Ab9df1e | my_model | 03f62221 | nan | nan|
 |a32C0cDFCd | my_project | 02c86852 | 1.053 | 2.439|
 |24A21C9cBC | my_model | 17499b6d | 1.091 | 2.658|
+|f30dC6bED5 | my_polynomial_model | ccd0c67 | 865166439.468 | 1866791328881622908928.000|
