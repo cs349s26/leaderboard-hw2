@@ -1,4 +1,4 @@
-# Results at 2026 May 05 18:49 CDT
+# Results at 2026 May 06 14:54 CDT
 | Pseudonym | Model | Commit | MAE (↓) | MSE (↓)|
 |--- | --- | --- | --- | ---|
 |9C5aa6FE2D | my_model | 391bdf4e | 1.079 | 2.619|
@@ -54,3 +54,26 @@
 |e35F7Afaed | my_model | 4b5e961d | 1.103 | 2.719|
 |0f5812F2aF | my_model | ebca43c1 | 1.127 | 2.882|
 |daEA9fABad | my_model | a0ee4fe5 | 1.394 | 3.776|
+|60bFed7AdC | my_model | 00a02f3a | 1.156 | 2.858|
+|4f0F9ED0C1 | my_model | b030a900 | 1.088 | 2.617|
+|64cCbFBdad | my_model | a0ac5fe8 | 1.072 | 2.596|
+|f28eF474aA | mymodel | 3c703aa6 | 1.225 | 3.468|
+|C79b9FBcdd | project_model | 9aabd702 | 1.908 | 5.549|
+|EB71d4E6c5 | model | ff05931f | 1.363 | 3.917|
+|2a93c96e5B | my_model | e1413481 | 1.094 | 2.655|
+|4623f5CfA4 | my_model | 89dcf264 | 1.363 | 3.917|
+|7Ff5c7f4A9 | adam_perceptron | aa43ea89 | 3.145 | 14.683|
+|e8b03Faee6 | my_model | e2d7ee7b | 1.094 | 2.685|
+|81fCf4D7eD | my_model | 8624e851 | 1.090 | 2.674|
+|81A7B8D4B9 | my_model | 980cadc4 | 1.074 | 2.600|
+|E57F3EC346 | my_model | ca462bba | 1.068 | 2.579|
+|2a93c96e5B | my_model | d477b3c3 | 1.094 | 2.655|
+|EB71d4E6c5 | model | 4c8194b1 | 1.101 | 2.745|
+|cfBefafd52 | my_model | 24dafa54 | 1.061 | 2.524|
+|E20C55232A | my_model | 1e776ead | 1.074 | 2.600|
+|d9C1AbdcCF | my_model | a1fd1324 | 1.369 | 4.032|
+|dA6C237336 | my_model | ced00476 | 1.088 | 2.635|
+|1dE5f9Eedf | my_model | 37dd579d | 1.071 | 2.572|
+|ad99499F4F | chirp_model | 22f11e0b | 1.102 | 2.711|
+|0E1Ab9df1e | my_model | 03f62221 | nan | nan|
+|a32C0cDFCd | my_project | 02c86852 | 1.053 | 2.439|
