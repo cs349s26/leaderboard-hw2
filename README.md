@@ -1,4 +1,4 @@
-# Results at 2026 May 06 17:35 CDT
+# Results at 2026 May 07 00:00 CDT
 | Pseudonym | Model | Commit | MAE (↓) | MSE (↓)|
 |--- | --- | --- | --- | ---|
 |9C5aa6FE2D | my_model | 391bdf4e | 1.079 | 2.619|
@@ -80,3 +80,6 @@
 |24A21C9cBC | my_model | 17499b6d | 1.091 | 2.658|
 |f30dC6bED5 | my_polynomial_model | ccd0c67 | 865166439.468 | 1866791328881622908928.000|
 |f30dC6bED5 | my_sk_logistic | ccd0c67 | 3.202 | 14.871|
+|4F4b2c4673 | my_model | 0521b1cb | 1.052 | 2.384|
+|64cCbFBdad | my_model | 1579dca5 | 1.075 | 2.592|
+|0FE47bEd17 | my_model | 48026515 | 1.073 | 2.550|
